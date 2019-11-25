@@ -1,2 +1,6 @@
 wow
 this is another wow
+git push --set-upstream origin feature1
+git push --set-upstream origin feature1
+git push --set-upstream origin feature1
+git push --set-upstream origin feature1
